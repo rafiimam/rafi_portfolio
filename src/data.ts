@@ -32,8 +32,8 @@ export const projects: Project[] = [
     img: portfolio,
     title: "Portfolio",
     technology: "TypeScript, React, Tailwind CSS, Framer-Motion",
-    liveLink:"",
-    githubRepo:"",
+    liveLink:"https://rafi-portfolio-khaki.vercel.app/",
+    githubRepo:"https://github.com/rafiimam/rafi_portfolio",
   },
   {
     id: 2,
