@@ -5,6 +5,7 @@ import wordPress2 from "./assets/wordPress2.png"
 import portfolio from "./assets/portfolio.png"
 import panda from "./assets/panda.png"
 import todo from "./assets/todo.png"
+import neta from "./assets/neta.png"
 
 interface Project {
   id: number;
@@ -78,6 +79,15 @@ export const projects: Project[] = [
     title: "BBS Cost Reduction",
     technology: "WordPress",
     liveLink:"https://bbs-cost-reduction.com/",
+    githubRepo:"",
+  },
+  {
+    id: 7,
+    category: "web",
+    img: neta,
+    title: "E-Commerce Site",
+    technology: "WordPress",
+    liveLink:"https://neta-care.com/",
     githubRepo:"",
   },
 ];
