@@ -10,13 +10,17 @@ import { motion } from "framer-motion";
 // components
 import { Button } from "./";
 
-interface CardProps {
-  imgSrc: string;
+// In Card.tsx
+type CardProps = {
+  imgSrc?: string;
   title: string;
-  technologies: string;
+  technologies: string | string[]; // Allow both string and string array
   liveLink?: string;
   githubRepo?: string;
-}
+};
+
+// Adjust the component logic accordingly to handle both types
+
 
 const Card: FC<CardProps> = ({ imgSrc, title, technologies, liveLink, githubRepo }) => {
   const [isHovered, setIsHovered] = useState(false);
