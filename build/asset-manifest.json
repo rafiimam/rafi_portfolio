@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ff876c0a.css",
+    "main.js": "/static/js/main.7e73e551.js",
+    "static/media/projects-page.svg": "/static/media/projects-page.a288ad051245dde972b95af641c0190d.svg",
+    "static/media/photoGallery.png": "/static/media/photoGallery.fb776b11f4e846bfc9c5.png",
+    "static/media/bookStore.png": "/static/media/bookStore.8604d94235c1bd6b830c.png",
+    "static/media/wordPress2.png": "/static/media/wordPress2.edfa1b9ecc7b81318de4.png",
+    "static/media/wordPress.png": "/static/media/wordPress.8e21d009aad5515bdbc8.png",
+    "static/media/panda.png": "/static/media/panda.7f0781bd9e3beb2e2437.png",
+    "static/media/about-me-page.svg": "/static/media/about-me-page.de79a72938ed30948f5289360b9f8b19.svg",
+    "static/media/portfolio.png": "/static/media/portfolio.6fbd236cbd064a26d143.png",
+    "static/media/home-page.svg": "/static/media/home-page.3d99bbe3e9e69e026163d1257c19de1c.svg",
+    "static/media/todo.png": "/static/media/todo.5befb008adfeaf774b16.png",
+    "static/media/about-illustration.svg": "/static/media/about-illustration.71feca1f6210ad9210ca9ecccabd0ad3.svg",
+    "static/media/contact-page.svg": "/static/media/contact-page.bb6dd0d5c4b36d67c1d4383d9a597201.svg",
+    "static/media/contact-illustration.svg": "/static/media/contact-illustration.309107b7faed5e5dd0680a8772fd9feb.svg",
+    "static/media/hero-illustration.svg": "/static/media/hero-illustration.70b54107e0c76f2b14efa9e9fc862fd9.svg",
+    "static/media/github.svg": "/static/media/github.3195c74c6208b3642bb22521e62ff8e3.svg",
+    "static/media/linkedIn.svg": "/static/media/linkedIn.b43fa7e71a9eaf4a01790870d299911c.svg",
+    "static/media/instagram-icon.svg": "/static/media/instagram-icon.14a18ac4832d5e8dde8a983ea18a8fef.svg",
+    "index.html": "/index.html",
+    "static/media/download-btn-icon.svg": "/static/media/download-btn-icon.db00ff1fa6f1d172b12f9e1441c6d79c.svg",
+    "static/media/facebook-icon.svg": "/static/media/facebook-icon.014da167b78be7d792a3e909edab6b5c.svg",
+    "main.ff876c0a.css.map": "/static/css/main.ff876c0a.css.map",
+    "main.7e73e551.js.map": "/static/js/main.7e73e551.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff876c0a.css",
+    "static/js/main.7e73e551.js"
+  ]
+}

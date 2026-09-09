@@ -1,0 +1,24 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <rect width="1280" height="720" fill="#151b22"/>
+  <rect x="24" y="24" width="1232" height="672" rx="20" fill="#1e262e" stroke="#2c3944"/>
+  <circle cx="56" cy="58" r="6" fill="#ff5f57"/>
+  <circle cx="76" cy="58" r="6" fill="#febc2e"/>
+  <circle cx="96" cy="58" r="6" fill="#28c840"/>
+  <text x="48" y="108" fill="#00ADB5" font-size="14" font-family="Segoe UI, Arial" letter-spacing="1.5">JAMUNA BANK  ·  COMPLIANCE</text>
+  <text x="48" y="168" fill="#f4f7f8" font-size="34" font-weight="700" font-family="Segoe UI, Arial">Central Bank Reporting</text>
+  <rect x="48" y="118" width="108" height="28" rx="14" fill="#16363a"/><text x="62" y="137" fill="#7fe7ee" font-size="13" font-family="Segoe UI, Arial">Validation</text><rect x="166" y="118" width="92" height="28" rx="14" fill="#16363a"/><text x="180" y="137" fill="#7fe7ee" font-size="13" font-family="Segoe UI, Arial">Packs</text><rect x="268" y="118" width="92" height="28" rx="14" fill="#16363a"/><text x="282" y="137" fill="#7fe7ee" font-size="13" font-family="Segoe UI, Arial">Calendar</text>
+  <rect x="48" y="190" width="760" height="64" rx="12" fill="#1b242c"/><text x="72" y="218" fill="#8b98a5" font-size="13" font-family="Segoe UI, Arial">Pack</text><text x="72" y="240" fill="#f2f5f7" font-size="18" font-family="Segoe UI, Arial">Regulatory extract prepared for review</text><text x="760" y="230" fill="#00ADB5" font-size="14" font-family="Segoe UI, Arial" text-anchor="end">Draft</text><rect x="48" y="266" width="760" height="64" rx="12" fill="#1b242c"/><text x="72" y="294" fill="#8b98a5" font-size="13" font-family="Segoe UI, Arial">Checks</text><text x="72" y="316" fill="#f2f5f7" font-size="18" font-family="Segoe UI, Arial">Schema and totals before submit</text><text x="760" y="306" fill="#00ADB5" font-size="14" font-family="Segoe UI, Arial" text-anchor="end">Passed</text><rect x="48" y="342" width="760" height="64" rx="12" fill="#1b242c"/><text x="72" y="370" fill="#8b98a5" font-size="13" font-family="Segoe UI, Arial">Calendar</text><text x="72" y="392" fill="#f2f5f7" font-size="18" font-family="Segoe UI, Arial">Due dates without live credentials</text><text x="760" y="382" fill="#00ADB5" font-size="14" font-family="Segoe UI, Arial" text-anchor="end">Scheduled</text>
+  <rect x="860" y="190" width="348" height="420" rx="16" fill="#172026" stroke="#2c3944"/>
+  <text x="884" y="230" fill="#f4f7f8" font-size="16" font-family="Segoe UI, Arial">Demo preview</text>
+  <text x="884" y="258" fill="#8b98a5" font-size="13" font-family="Segoe UI, Arial">Sanitized sample. No live bank data.</text>
+  <rect x="884" y="290" width="300" height="12" rx="6" fill="#24313a"/>
+  <rect x="884" y="290" width="210" height="12" rx="6" fill="#00ADB5"/>
+  <rect x="884" y="320" width="300" height="12" rx="6" fill="#24313a"/>
+  <rect x="884" y="320" width="160" height="12" rx="6" fill="#00ADB5"/>
+  <rect x="884" y="350" width="300" height="12" rx="6" fill="#24313a"/>
+  <rect x="884" y="350" width="240" height="12" rx="6" fill="#00ADB5"/>
+  <rect x="884" y="410" width="140" height="36" rx="18" fill="#00ADB5"/>
+  <text x="954" y="433" fill="#102226" font-size="13" font-family="Segoe UI, Arial" text-anchor="middle">Review</text>
+  <rect x="1036" y="410" width="140" height="36" rx="18" fill="#24313a"/>
+  <text x="1106" y="433" fill="#d7dee4" font-size="13" font-family="Segoe UI, Arial" text-anchor="middle">Sample</text>
+</svg>
