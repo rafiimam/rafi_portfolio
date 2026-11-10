@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/rafi_portfolio/static/css/main.8823926d.css",
+    "main.js": "/rafi_portfolio/static/js/main.791e39a5.js",
+    "static/media/photoGallery.png": "/rafi_portfolio/static/media/photoGallery.fb776b11f4e846bfc9c5.png",
+    "static/media/bookStore.png": "/rafi_portfolio/static/media/bookStore.8604d94235c1bd6b830c.png",
+    "static/media/wordPress2.png": "/rafi_portfolio/static/media/wordPress2.edfa1b9ecc7b81318de4.png",
+    "static/media/neta.png": "/rafi_portfolio/static/media/neta.777bdb6d3168f869dead.png",
+    "static/media/wordPress.png": "/rafi_portfolio/static/media/wordPress.8e21d009aad5515bdbc8.png",
+    "static/media/panda.png": "/rafi_portfolio/static/media/panda.7f0781bd9e3beb2e2437.png",
+    "static/media/dedup-cif.png": "/rafi_portfolio/static/media/dedup-cif.6cf2264bc4daa93f5079.png",
+    "static/media/core-connect.png": "/rafi_portfolio/static/media/core-connect.8c7e473ab85268150d62.png",
+    "static/media/bb-reporting.png": "/rafi_portfolio/static/media/bb-reporting.3f3b01920ccc79b430ef.png",
+    "static/media/banglaqr.png": "/rafi_portfolio/static/media/banglaqr.6a99b0290a719ced2301.png",
+    "static/media/customer-amend.png": "/rafi_portfolio/static/media/customer-amend.8be22d17c0d9b34b4e88.png",
+    "static/media/intraweb.png": "/rafi_portfolio/static/media/intraweb.7feefed62939ab888beb.png",
+    "static/media/cctv.png": "/rafi_portfolio/static/media/cctv.ccee4946f97e256feb70.png",
+    "static/media/service-desk.png": "/rafi_portfolio/static/media/service-desk.3745a107f12866846b2b.png",
+    "static/media/payments.png": "/rafi_portfolio/static/media/payments.e83fe8c2426c1110811c.png",
+    "static/media/otp-auth.png": "/rafi_portfolio/static/media/otp-auth.4ebd302068c34aab6e47.png",
+    "static/media/account-opening.png": "/rafi_portfolio/static/media/account-opening.4b406f0ddd6c7e396d33.png",
+    "static/media/liveness-face.png": "/rafi_portfolio/static/media/liveness-face.700b28fc5d25129f9496.png",
+    "static/media/self-service.png": "/rafi_portfolio/static/media/self-service.d15734cf5671d7cb4ede.png",
+    "static/media/ocr-paperless.png": "/rafi_portfolio/static/media/ocr-paperless.0d830d5791b88c1ad7fc.png",
+    "static/media/nid-verification.png": "/rafi_portfolio/static/media/nid-verification.50cf41dd298491fcb994.png",
+    "static/media/portfolio.png": "/rafi_portfolio/static/media/portfolio.6fbd236cbd064a26d143.png",
+    "static/media/signature-match.png": "/rafi_portfolio/static/media/signature-match.326540276a9dad6d7652.png",
+    "static/media/todo.png": "/rafi_portfolio/static/media/todo.5befb008adfeaf774b16.png",
+    "index.html": "/rafi_portfolio/index.html",
+    "main.8823926d.css.map": "/rafi_portfolio/static/css/main.8823926d.css.map",
+    "main.791e39a5.js.map": "/rafi_portfolio/static/js/main.791e39a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8823926d.css",
+    "static/js/main.791e39a5.js"
+  ]
+}
