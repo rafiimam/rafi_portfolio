@@ -1,3 +1,17 @@
+# Rafi Imam — Software Engineering Portfolio
+
+Live: https://rafiimam.github.io/rafi_portfolio/
+
+The portfolio is designed as an **eKYC verification flow** — the product domain I build at work. A visitor is "verified" step by step: a live-capture identity check, the document of record (employment and production banking systems), liveness-style project deep-dives, and a final decision page. Every project links to its GitHub repository, and the production systems link to the live apps (Shadhin, the eKYC app, and the Self-Service Portal).
+
+Pages: Home (the verification) · Projects (all systems, with visuals) · Project detail · Hackathon (DocTrust — Meta Global AI Developer Hackathon 2026, selected participant).
+
+A **Download CV** button in the header serves `Resume_Rafi_Imam_RUET17.pdf` from `public/`.
+
+Built with React, TypeScript, and Tailwind CSS.
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
