@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700&family=Inter:wght@400;500;600;700;800&display=swap");
 
 @tailwind base;
 @tailwind components;
@@ -8,5 +8,109 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "Poppins", sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Inter", system-ui, "Segoe UI", sans-serif;
+  background-color: #faf7ef;
+  color: #101b28;
+}
+
+/* Subtle guilloche-like security pattern, pale blue on cream */
+.guilloche {
+  background-color: #faf7ef;
+  background-image:
+    repeating-radial-gradient(
+      circle at 0 0,
+      rgba(23, 69, 122, 0.055) 0,
+      rgba(23, 69, 122, 0.055) 1px,
+      transparent 1px,
+      transparent 16px
+    ),
+    repeating-radial-gradient(
+      circle at 16px 16px,
+      rgba(23, 69, 122, 0.04) 0,
+      rgba(23, 69, 122, 0.04) 1px,
+      transparent 1px,
+      transparent 16px
+    ),
+    repeating-linear-gradient(
+      0deg,
+      rgba(23, 69, 122, 0.025) 0,
+      rgba(23, 69, 122, 0.025) 1px,
+      transparent 1px,
+      transparent 56px
+    );
+}
+
+.guilloche-band {
+  background-color: #17457a;
+  background-image:
+    repeating-radial-gradient(
+      circle at 0 0,
+      rgba(255, 255, 255, 0.07) 0,
+      rgba(255, 255, 255, 0.07) 1px,
+      transparent 1px,
+      transparent 18px
+    ),
+    repeating-radial-gradient(
+      circle at 18px 18px,
+      rgba(255, 255, 255, 0.05) 0,
+      rgba(255, 255, 255, 0.05) 1px,
+      transparent 1px,
+      transparent 18px
+    );
+}
+
+/* Camera viewfinder corner brackets */
+.viewfinder {
+  position: relative;
+}
+.viewfinder > .vf-corner {
+  position: absolute;
+  width: 26px;
+  height: 26px;
+  border-color: #17457a;
+  border-style: solid;
+  z-index: 2;
+  pointer-events: none;
+}
+.vf-tl {
+  top: -3px;
+  left: -3px;
+  border-width: 4px 0 0 4px;
+}
+.vf-tr {
+  top: -3px;
+  right: -3px;
+  border-width: 4px 4px 0 0;
+}
+.vf-bl {
+  bottom: -3px;
+  left: -3px;
+  border-width: 0 0 4px 4px;
+}
+.vf-br {
+  bottom: -3px;
+  right: -3px;
+  border-width: 0 4px 4px 0;
+}
+
+/* Rubber stamp */
+.stamp {
+  display: inline-block;
+  border: 3px solid #c8372d;
+  color: #c8372d;
+  border-radius: 6px;
+  padding: 0.35rem 0.9rem;
+  font-family: "Oswald", "Arial Narrow", sans-serif;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  transform: rotate(-6deg);
+  box-shadow: inset 0 0 0 1px rgba(200, 55, 45, 0.35);
+  background: rgba(200, 55, 45, 0.04);
 }
