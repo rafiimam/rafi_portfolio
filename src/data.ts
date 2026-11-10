@@ -70,7 +70,7 @@ export const projects: Project[] = [
     technology: "Python, InsightFace, PAD",
     summary:
       "Guided capture, presentation-attack checks, and photo match used during digital onboarding.",
-    liveLink: "",
+    liveLink: "https://play.google.com/store/apps/details?id=com.jamunabank.ekyc",
     githubRepo: repo("jbl-liveness-verification"),
   },
   {
@@ -92,7 +92,7 @@ export const projects: Project[] = [
     technology: ".NET, payments",
     summary:
       "QR generation, payment status, and settlement handling for Bangla QR without exposing gateway secrets.",
-    liveLink: "",
+    liveLink: "https://play.google.com/store/apps/details?id=jbl.app.shadhin",
     githubRepo: repo("jbl-banglaqr"),
   },
   {
@@ -114,7 +114,7 @@ export const projects: Project[] = [
     technology: "React, APIs",
     summary:
       "Customer portal for statements, card services, and requests, with masked account data after sign-in.",
-    liveLink: "",
+    liveLink: "https://www.selfservice.jamunabank.com.bd",
     githubRepo: repo("jbl-self-service-portal"),
   },
   {
